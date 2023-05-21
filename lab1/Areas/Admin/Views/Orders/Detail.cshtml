@@ -1,0 +1,79 @@
+﻿@using X.PagedList
+@using X.PagedList.Mvc.Core
+@using System.IO
+@* nhin thay file MyDbContext *@
+@using project.Models
+@using lab1.Models
+@{
+    //Load file Layout.cshtml
+    Layout = "~/Areas/Admin/Views/Shared/Layout.cshtml";
+
+}
+
+@functions {
+    public MyDbContext db = new MyDbContext();
+    public ItemCustomers GetCustomers(int _CustomerId)
+    {
+        //lay mot ban ghi
+        ItemCustomers record = db.Customers.Where(item => item.Id == _CustomerId).FirstOrDefault();
+        return record != null ? record : new ItemCustomers();
+    }
+    public ItemOrders GetOrders(int _OrderId)
+    {
+        //lay mot ban ghi
+        ItemOrders record = db.Orders.Where(item => item.Id == _OrderId).FirstOrDefault();
+        return record != null ? record : new ItemOrders();
+    }
+    public ItemProducts GetProducts(int _ProductId)
+    {
+        //lay mot ban ghi
+        ItemProducts record = db.Products.Where(item => item.Id == _ProductId).FirstOrDefault();
+        return record != null ? record : new ItemProducts();
+    }
+}
+
+<div class="col-md-12">
+    @{
+        ItemOrders recordOrders = GetOrders(ViewBag.OrderId);
+    }
+    <div class="card card-plain table-plain-bg">
+        <div class="card-header ">
+            <h4 class="card-title">Order detail</h4>
+        </div>
+        <div style="margin-bottom:5px;">
+            <a href="/Admin/Orders" class="btn btn-primary">Back</a>
+            @if (recordOrders.Status == 0)
+            {
+                <a href="/Admin/Orders/Delivery/@ViewBag.OrderId" class="btn btn-primary">Giao hàng</a>
+            }
+        </div>
+        <div class="card-body table-full-width table-responsive">
+            <table class="table table-hover">
+                <thead>
+                <th style="width:100px;">Photo</th>
+                <th>Name</th>
+                <th style="width:100px;">Price</th>
+                <th style="width:100px;">Quantity</th>
+                <th style="width:150px;"></th>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        ItemProducts recordProducts = GetProducts(item.ProductId);
+                        <tr>
+                            <td>
+                                @if (recordProducts.Photo != null && File.Exists(Directory.GetCurrentDirectory() + "\\wwwroot\\Upload\\Products\\" + recordProducts.Photo))
+                                {
+                                    <img src="~/Upload/Products/@recordProducts.Photo" style="width:100px;"/>
+                                }
+                            </td>
+                            <td>@recordProducts.Name</td>
+                            <td> @string.Format("{0:#,#.}", recordProducts.Price - (recordProducts.Price * recordProducts.Discount) / 100) $</td>
+                            <td style="text-align:center;">@item.Quantity</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>            
+        </div>
+    </div>
+</div>

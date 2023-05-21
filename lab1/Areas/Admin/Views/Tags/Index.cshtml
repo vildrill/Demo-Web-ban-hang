@@ -1,0 +1,57 @@
+﻿@{
+    //Load file Layout.cshtml
+    Layout = "~/Areas/Admin/Views/Shared/Layout.cshtml";
+
+}
+@using X.PagedList
+@using X.PagedList.Mvc.Core
+@using System.IO
+@* nhin thay file MyDbContext *@
+@using project.Models
+@functions {
+    public MyDbContext db = new MyDbContext();
+}
+
+            <div class="col-md-12">
+                <div class="card card-plain table-plain-bg">
+                    <div class="card-header ">
+                        <h4 class="card-title">Tags Table</h4>
+                        <p class="card-category">You can add a new tag here</p>
+                    </div>
+                    <div style="margin-bottom:5px;">
+                        <a href="/Admin/Tags/Create" class="btn btn-primary">Add new tag</a>
+                    </div>
+                    <div class="card-body table-full-width table-responsive">
+                        <table class="table table-hover">
+                            <thead>                            
+                            <th>Name</th>
+                            <th style="width:100px;"></th>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model)
+                                {
+                                    <tr>
+                                        <td>@item.Name</td>
+                                        <td style="text-align:center;">
+                                            <a href="/Admin/Tags/Update/@item.Id">Edit</a>&nbsp;
+                                            <a href="/Admin/Tags/Delete/@item.Id" onclick="return window.confirm('Are you sure?');">Delete</a>
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                        <style type="text/css">
+                            .pagination {
+                                padding: 0px;
+                                margin: 0px auto;
+                            }
+
+                            .pagination-container {
+                                text-align: center;
+                            }
+                        </style>
+                        @Html.PagedListPager((IPagedList)Model,p=>Url.Action("Index", new{page = p}))
+
+                    </div>
+                </div>
+            </div>

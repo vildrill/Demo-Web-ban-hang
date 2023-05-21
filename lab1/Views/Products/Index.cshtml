@@ -1,0 +1,245 @@
+﻿@using lab1.MyClass
+@using project.Models
+@using X.PagedList
+@using X.PagedList.Mvc.Core
+@{
+	//load file Layout2.cshtml vào đây
+	Layout = "~/Views/Shared/Layout2.cshtml";
+}
+
+
+<div class="flex-w flex-sb-m p-b-52" style="margin-left: 20px">
+	<div class="flex-w flex-l-m filter-tope-group m-tb-10">
+		<button class="stext-106 cl6 hov1 bor3 trans-04 m-r-32 m-tb-5 how-active1" data-filter="*">
+			All Products
+		</button>
+
+		<button class="stext-106 cl6 hov1 bor3 trans-04 m-r-32 m-tb-5" data-filter=".women">
+			Women
+		</button>
+
+		<button class="stext-106 cl6 hov1 bor3 trans-04 m-r-32 m-tb-5" data-filter=".men">
+			Men
+		</button>
+
+		<button class="stext-106 cl6 hov1 bor3 trans-04 m-r-32 m-tb-5" data-filter=".bag">
+			Bag
+		</button>
+
+		<button class="stext-106 cl6 hov1 bor3 trans-04 m-r-32 m-tb-5" data-filter=".shoes">
+			Shoes
+		</button>
+
+		<button class="stext-106 cl6 hov1 bor3 trans-04 m-r-32 m-tb-5" data-filter=".watches">
+			Watches
+		</button>
+	</div>
+
+	<div class="flex-w flex-c-m m-tb-10">
+		<div class="flex-c-m stext-106 cl6 size-104 bor4 pointer hov-btn3 trans-04 m-r-8 m-tb-4 js-show-filter">
+			<i class="icon-filter cl2 m-r-6 fs-15 trans-04 zmdi zmdi-filter-list"></i>
+			<i class="icon-close-filter cl2 m-r-6 fs-15 trans-04 zmdi zmdi-close dis-none"></i>
+			Filter
+		</div>
+
+		<div class="flex-c-m stext-106 cl6 size-105 bor4 pointer hov-btn3 trans-04 m-tb-4 js-show-search">
+			<i class="icon-search cl2 m-r-6 fs-15 trans-04 zmdi zmdi-search"></i>
+			<i class="icon-close-search cl2 m-r-6 fs-15 trans-04 zmdi zmdi-close dis-none"></i>
+			Search
+		</div>
+	</div>
+
+	<!-- Search product -->
+	<div class="dis-none panel-search w-full p-t-10 p-b-15">
+		<div class="bor8 dis-flex p-l-15" class="wrap-search-form" autocomplete="off">
+			<button class="size-113 flex-c-m fs-16 cl2 hov-cl1 trans-04" onclick="location.href='/Search/SearchName?key='+document.getElementById('key').value;">
+				<i class="zmdi zmdi-search"></i>
+			</button>
+
+			<input class="mtext-107 cl2 size-114 plh2 p-r-15" id="key" on type="text" name="search-product" placeholder="Search">
+
+		</div>
+		 <div class="sub-search-form">
+			<ul>
+				<li><a href="#"> <img src="http://localhost:5172/Upload/Products/133200566077033343_b48c73392f1a7f41adee985b5aa2ad4c.png" style="width: 70p;" />YÊU VỚI ĐƯƠNG CÁI GÌ T-SHIRT POD</a></li>
+				<li><a href="#"> <img src="http://localhost:5172/Upload/Products/133200565734549108_02bb0e6df2d31d10209c0539b18a5b74.png" style="width: 70p;" />KHÔNG THỂ TIN ĐƯỢC T-SHIRT</a></li>
+				<li><a href="#"> <img src="http://localhost:5172/Upload/Products/133200564793147260_c48c0e204c28e9fbd2a728d5faaf176d.jpg" style="width: 70p;" />Thích Nghi Tshirt</a></li>
+			</ul>
+         </div>
+		<style type="text/css">
+			.wrap-search-form {
+				position: relative;
+			}
+
+			.sub-search-form {
+				position: fixed;
+				width: 500px;
+				background: white;				
+				z-index: 5;
+				height: 300px;
+				overflow: scroll;
+				display: none;
+			}
+
+				.sub-search-form img {
+					width: 70px;
+					margin-right: 5px;
+				}
+
+				.sub-search-form ul {
+					padding: 5px;
+					margin: 5px;
+					list-style: none;
+					text-align: left;
+				}
+
+				.sub-search-form ul li {
+					border-top: 1px solid #dddddd;
+					padding: 5px;
+					margin: 5px;
+				}
+		</style>
+		@*load thu vien jquery*@
+		<script src="https://code.jquery.com/jquery-3.6.3.js"
+				integrity="sha256-nQLuAZGRRcILA+6dMBOvcRh5Pe310sBpanc6+QBmyVM="
+				crossorigin="anonymous"></script>
+		<script language="javascript">
+			//---
+			@* muon thuc hien tim kiem bang ajax thi phai load thu vien jquery vao trang. De kiem tra xem trang da co thu vien jquery chua thi phai thuc hien theo cach sau *@
+				//$(document).ready(function() { alert("Thư viện jquery đã load vào trang"); });
+				$(document).ready(function () {
+					$("#key").keyup(function () {
+						//lay gia tri cua textbox co id=key
+						var key = $("#key").val();
+						if (key != "") {
+							//hien thi khoi smart-search-list
+							$(".sub-search-form").attr("style", "display:block;");
+							//ajax get
+							$.get("/Search/Ajax?key=" + key, function (result) {
+								//lam rong danh sach cac the li
+								$(".sub-search-form ul").empty();
+								//them ket qua vao the li
+								$(".sub-search-form ul").append(result);
+							});
+						} else {
+							$(".sub-search-form").attr("style", "display:none;");
+						}
+					});
+				});
+		</script>
+	</div>
+
+	<!-- Filter -->
+	<div class="dis-none panel-filter w-full p-t-10">
+		<div class="wrap-filter flex-w bg6 w-full p-lr-40 p-t-27 p-lr-15-sm">
+			<div class="filter-col1 p-r-15 p-b-27">
+				<div class="mtext-102 cl2 p-b-15">
+					Sort By
+				</div>
+				<div class="sort-item orderby ">
+					<select name="orderby" class="use-chosen" onchange="location.href='/Products/Index/@if(ViewBag.CategoryId != null && ViewBag.CategoryId > 0){
+						<text>@ViewBag.CategoryId</text>}?order='+this.value;">
+						<option value="">Default sorting</option>
+						<option value="name-asc">Sort by name a-z</option>
+						<option value="name-desc">Sort by name z-a</option>
+						<option value="price-asc">Sort by price: low to high</option>
+						<option value="price-desc">Sort by price: high to low</option>
+					</select>
+				</div>
+			</div>								
+		</div>
+	</div>
+</div>
+
+<div class="col-md-8 col-lg-9 p-b-80">
+	<div class="p-r-45 p-r-0-lg">
+		<!-- item blog -->
+		<div class="row isotope-grid">
+			@foreach (var item in Model)
+				{
+				<div class="col-sm-6 col-md-4 col-lg-3 p-b-35 isotope-item women">
+					<!-- Block2 -->
+					<div class="block2">
+						<div class="block2-pic hov-img0">
+							<img src="~/Upload/Products/@item.Photo" alt="@item.Name">
+
+							<a href="/Cart/Add/@item.Id" title="@item.Name" class="block2-btn function-link flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-addcart-detail">
+								Add to cart
+							</a>
+						</div>
+
+						<div class="block2-txt flex-w flex-t p-t-14">
+							<div class="block2-txt-child1 flex-col-l ">
+								<a href="/Products/Detail/@item.Id" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
+									@item.Name
+								</a>
+
+								<span class="stext-105 cl3">
+									$@string.Format("{0:#,#.}",item.Price)
+								</span>
+							</div>
+
+							<div class="block2-txt-child2 flex-r p-t-3">
+								<a href="/Wishlist/Add/@item.Id" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
+									<img class="icon-heart1 dis-block trans-04" src="~/asset/images/icons/icon-heart-01.png" alt="ICON">
+									<img class="icon-heart2 dis-block trans-04 ab-t-l" src="~/asset/images/icons/icon-heart-02.png" alt="ICON">
+								</a>
+							</div>
+								<!-- rating -->
+							<div class="wrap-price">
+								<div class="product-price">
+									<a href="/Products/Rating/@item.Id?star=1" style="margin-right: 3px;"><i class="fa fa-star" style="color:#efce4a;"></i></a>
+									<a href="/Products/Rating/@item.Id?star=2" style="margin-right: 3px;"><i class="fa fa-star" style="color:#efce4a;"></i></a>
+									<a href="/Products/Rating/@item.Id?star=3" style="margin-right: 3px;"><i class="fa fa-star" style="color:#efce4a;"></i></a>
+									<a href="/Products/Rating/@item.Id?star=4" style="margin-right: 3px;"><i class="fa fa-star" style="color:#efce4a;"></i></a>
+									<a href="/Products/Rating/@item.Id?star=5" style="margin-right: 3px;"><i class="fa fa-star" style="color:#efce4a;"></i></a>
+									</div>
+								</div>
+								<!-- /rating -->
+						</div>
+					</div>
+				</div>
+				}
+						
+		</div>
+		<div class="flex-l-m flex-w w-full p-t-10 m-lr--7">
+			@*<a href="#" class="flex-c-m how-pagination1 trans-04 m-all-7 active-pagination1">
+			1
+			</a>
+
+			<a href="#" class="flex-c-m how-pagination1 trans-04 m-all-7">
+			2
+			</a>*@
+			<style type="text/css">
+				 .pagination {
+					 margin-top: 20px;
+
+							}
+
+        .pagination li {
+            display: inline-block;
+            height: 40px;
+            width: 40px;
+            border: 1px solid #f2f2f2;
+            border-radius: 50%;
+            font-size: 14px;
+            color: chocolate;
+            font-weight: 600;
+            line-height: 40px;
+            text-align: center;
+            transition: all, 0.3s;
+            margin-right: 6px;
+            font-weight: 600;
+        }
+
+            .pagination li:hover {
+                background: grey;
+                border-color: #f2f2f2;
+                color: #f2f2f2;
+            }
+						
+			</style>
+			@Html.PagedListPager((IPagedList)Model,p=>Url.Action("Index", new {page = p,order=ViewBag.Order}))
+		</div>
+	</div>
+</div>

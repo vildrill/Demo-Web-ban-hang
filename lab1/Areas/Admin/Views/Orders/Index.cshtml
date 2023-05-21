@@ -1,0 +1,91 @@
+﻿@using X.PagedList
+@using X.PagedList.Mvc.Core
+@using System.IO
+@* nhin thay file MyDbContext *@
+@using project.Models
+@using lab1.Models
+@{
+    //Load file Layout.cshtml
+    Layout = "~/Areas/Admin/Views/Shared/Layout.cshtml";
+}
+
+@functions {
+    public MyDbContext db = new MyDbContext();
+    public ItemCustomers GetCustomers(int _CustomerId)
+    {
+        //lay mot ban ghi
+        ItemCustomers record = db.Customers.Where(item => item.Id == _CustomerId).FirstOrDefault();
+        return record != null ? record : new ItemCustomers();
+    }
+}
+
+<div class="col-md-12">
+    <div class="card card-plain table-plain-bg">
+        <div class="card-header ">
+            <h4 class="card-title">List Order</h4>            
+        </div>        
+        <div class="card-body table-full-width table-responsive">
+            <table class="table table-hover">
+                <thead>
+                <th>Name</th>
+                <th>Address</th>
+                <th>Phone</th>
+                <th>Created</th>
+                <th>Price</th>
+                <th>Status</th>
+                <th style="width:150px;"></th>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        ItemCustomers recordCustomer = GetCustomers(item.CustomerId);
+                        <tr>
+                            <td>@recordCustomer.Name</td>
+                            <td>@recordCustomer.Address</td>
+                            <td>@recordCustomer.Phone</td>
+                            <td>@item.Create.ToString("ddMMyyyy")</td>
+                            <td> $ @string.Format("{0:#,#.}", item.Price)</td>
+                            <td>
+                                @if (item.Status == 2)
+                                {
+                                    <text><label class="label label-warning">Đã hủy đơn hàng</label></text>
+                                }
+                                @if (item.Status == 1)
+                                {
+                                    <text><label class="label label-danger">Đã giao hàng</label></text>
+                                }
+                                @if (item.Status == 0)
+                                {
+                                    <text><label class="label label-primary">Chưa giao hàng</label></text>
+                                }
+                            </td>
+                            <td>@item.Create.ToString("ddMMyyyy")</td>
+
+                            <td style="text-align:center;">
+                                @if (item.Status == 0)
+                                {
+                                    <a href="/Admin/Orders/Delivery/@item.Id">Giao hàng</a>
+                                    
+                                }
+                                &nbsp;
+                                <a href="/Admin/Orders/Detail/@item.Id">Chi tiết</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            <style type="text/css">
+                .pagination {
+                    padding: 0px;
+                    margin: 0px auto;
+                }
+
+                .pagination-container {
+                    text-align: center;
+                }
+            </style>
+            @Html.PagedListPager((IPagedList)Model,p=>Url.Action("Index", new{page = p}))
+
+        </div>
+    </div>
+</div>

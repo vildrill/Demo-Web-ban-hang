@@ -1,0 +1,3293 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\Upload\\Adv\\133201692624805849_banner-02.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Adv\\133201692624805849_banner-02.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\Upload\\Adv\\133201692732684885_banner-01.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Adv\\133201692732684885_banner-01.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\Upload\\Adv\\133201698493825350_banner-06.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Adv\\133201698493825350_banner-06.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\Upload\\Blog\\133220468655468444_333665700_222302316875530_5068147077831602153_n.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Blog\\133220468655468444_333665700_222302316875530_5068147077831602153_n.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\Upload\\Blog\\133220731305171474_71d04b2469eef91085d8d08064c2a101.png",
+      "PackagePath": "staticwebassets\\Upload\\Blog\\133220731305171474_71d04b2469eef91085d8d08064c2a101.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\Upload\\Blog\\133220733861657224_71d04b2469eef91085d8d08064c2a101.png",
+      "PackagePath": "staticwebassets\\Upload\\Blog\\133220733861657224_71d04b2469eef91085d8d08064c2a101.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\Upload\\Blog\\133220743620037959_333665700_222302316875530_5068147077831602153_n.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Blog\\133220743620037959_333665700_222302316875530_5068147077831602153_n.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\Upload\\Blog\\133220750704845468_images.jfif",
+      "PackagePath": "staticwebassets\\Upload\\Blog\\133220750704845468_images.jfif"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\Upload\\Blog\\133220751416337427_tải xuống.jfif",
+      "PackagePath": "staticwebassets\\Upload\\Blog\\133220751416337427_tải xuống.jfif"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\Upload\\Blog\\133220769773627588_alameda-de-compras-de-los-elementos-95366776.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Blog\\133220769773627588_alameda-de-compras-de-los-elementos-95366776.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\Upload\\Blog\\133221328032769184_bottega-lead.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Blog\\133221328032769184_bottega-lead.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\Upload\\Blog\\133221328665494495_gucci-chinh-hang-authentic-tai-ha-noi.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Blog\\133221328665494495_gucci-chinh-hang-authentic-tai-ha-noi.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\Upload\\Products\\133173144686141596_5f2418ce201173e196d480216caf68e1.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133173144686141596_5f2418ce201173e196d480216caf68e1.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\Upload\\Products\\133175704520976189_5f2418ce201173e196d480216caf68e1.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133175704520976189_5f2418ce201173e196d480216caf68e1.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\Upload\\Products\\133200560314472780_54f5a50785a7341572be520bc629c6b6.png",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133200560314472780_54f5a50785a7341572be520bc629c6b6.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\Upload\\Products\\133200560787603166_6cc99ede7387d7c5300d7046613b6ac3.png",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133200560787603166_6cc99ede7387d7c5300d7046613b6ac3.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\Upload\\Products\\133200561487570640_0084aaf0404e31321ab9b897d84ae993.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133200561487570640_0084aaf0404e31321ab9b897d84ae993.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\Upload\\Products\\133200562470362802_cda0aa7a8088864f3b52928f2e60f265.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133200562470362802_cda0aa7a8088864f3b52928f2e60f265.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\Upload\\Products\\133200563484514364_81a36cf0e1172e187c111af42faf10f3.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133200563484514364_81a36cf0e1172e187c111af42faf10f3.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\Upload\\Products\\133200564306247106_b733c29eb8be40d55d39ed4862658889.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133200564306247106_b733c29eb8be40d55d39ed4862658889.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\Upload\\Products\\133200564793147260_c48c0e204c28e9fbd2a728d5faaf176d.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133200564793147260_c48c0e204c28e9fbd2a728d5faaf176d.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\Upload\\Products\\133200565734549108_02bb0e6df2d31d10209c0539b18a5b74.png",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133200565734549108_02bb0e6df2d31d10209c0539b18a5b74.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\Upload\\Products\\133200566077033343_b48c73392f1a7f41adee985b5aa2ad4c.png",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133200566077033343_b48c73392f1a7f41adee985b5aa2ad4c.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\Upload\\Products\\133220443256005454_92004ea18a7e91a04b9612f356f391cc.png",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133220443256005454_92004ea18a7e91a04b9612f356f391cc.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\Upload\\Products\\133220444027247373_d613165e3339e40713abc667a72d276d.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133220444027247373_d613165e3339e40713abc667a72d276d.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\Upload\\Products\\133220444763315295_bb3e32ee2f7ad7bc13d51e563b3eb90c.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133220444763315295_bb3e32ee2f7ad7bc13d51e563b3eb90c.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\Upload\\Products\\133220445741008949_d725b116231796cffbc8b0f6aeb0a522.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133220445741008949_d725b116231796cffbc8b0f6aeb0a522.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\Upload\\Products\\133220446436697952_71d04b2469eef91085d8d08064c2a101.png",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133220446436697952_71d04b2469eef91085d8d08064c2a101.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\Upload\\Products\\133220447120987845_50a08bcec08c34dbb027e49667cec20c.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133220447120987845_50a08bcec08c34dbb027e49667cec20c.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\Upload\\Products\\133220448256948236_ecf9c6164acb726d2e0348f6ad155b90.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133220448256948236_ecf9c6164acb726d2e0348f6ad155b90.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\Upload\\Products\\133220448825912115_30aacaa66bdcdc58fb318489f56d1d1c.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133220448825912115_30aacaa66bdcdc58fb318489f56d1d1c.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\Upload\\Slides\\133201693055199277_slide-01.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Slides\\133201693055199277_slide-01.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\Upload\\Slides\\133201693329390037_slide-02.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Slides\\133201693329390037_slide-02.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\Upload\\Slides\\133201693633090209_slide-03.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Slides\\133201693633090209_slide-03.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\css\\main.css",
+      "PackagePath": "staticwebassets\\asset\\css\\main.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\css\\util.css",
+      "PackagePath": "staticwebassets\\asset\\css\\util.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\Montserrat\\Montserrat-Black.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Montserrat\\Montserrat-Black.ttf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\Montserrat\\Montserrat-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Montserrat\\Montserrat-BlackItalic.ttf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\Montserrat\\Montserrat-Bold.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Montserrat\\Montserrat-Bold.ttf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\Montserrat\\Montserrat-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Montserrat\\Montserrat-BoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\Montserrat\\Montserrat-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Montserrat\\Montserrat-ExtraBold.ttf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\Montserrat\\Montserrat-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Montserrat\\Montserrat-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\Montserrat\\Montserrat-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Montserrat\\Montserrat-ExtraLight.ttf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\Montserrat\\Montserrat-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Montserrat\\Montserrat-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\Montserrat\\Montserrat-Italic.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Montserrat\\Montserrat-Italic.ttf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\Montserrat\\Montserrat-Light.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Montserrat\\Montserrat-Light.ttf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\Montserrat\\Montserrat-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Montserrat\\Montserrat-LightItalic.ttf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\Montserrat\\Montserrat-Medium.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Montserrat\\Montserrat-Medium.ttf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\Montserrat\\Montserrat-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Montserrat\\Montserrat-MediumItalic.ttf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\Montserrat\\Montserrat-Regular.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Montserrat\\Montserrat-Regular.ttf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\Montserrat\\Montserrat-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Montserrat\\Montserrat-SemiBold.ttf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\Montserrat\\Montserrat-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Montserrat\\Montserrat-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\Montserrat\\Montserrat-Thin.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Montserrat\\Montserrat-Thin.ttf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\Montserrat\\Montserrat-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Montserrat\\Montserrat-ThinItalic.ttf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\Montserrat\\OFL.txt",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Montserrat\\OFL.txt"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\PlayfairDisplay\\OFL.txt",
+      "PackagePath": "staticwebassets\\asset\\fonts\\PlayfairDisplay\\OFL.txt"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\PlayfairDisplay\\PlayfairDisplay-Black.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\PlayfairDisplay\\PlayfairDisplay-Black.ttf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\PlayfairDisplay\\PlayfairDisplay-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\PlayfairDisplay\\PlayfairDisplay-BlackItalic.ttf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\PlayfairDisplay\\PlayfairDisplay-Bold.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\PlayfairDisplay\\PlayfairDisplay-Bold.ttf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\PlayfairDisplay\\PlayfairDisplay-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\PlayfairDisplay\\PlayfairDisplay-BoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\PlayfairDisplay\\PlayfairDisplay-Italic.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\PlayfairDisplay\\PlayfairDisplay-Italic.ttf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\PlayfairDisplay\\PlayfairDisplay-Regular.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\PlayfairDisplay\\PlayfairDisplay-Regular.ttf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\Poppins\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Poppins\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\Poppins\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Poppins\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\Poppins\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Poppins\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\Poppins\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Poppins\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\Poppins\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Poppins\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\Poppins\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Poppins\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\Poppins\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Poppins\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\Poppins\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Poppins\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\Poppins\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Poppins\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\Poppins\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Poppins\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\Poppins\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Poppins\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\Poppins\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Poppins\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\Poppins\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Poppins\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\Poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\Poppins\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Poppins\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\Poppins\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Poppins\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\Poppins\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Poppins\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\Poppins\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Poppins\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\asset\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\asset\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\asset\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\asset\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\asset\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\asset\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\asset\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\asset\\fonts\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\asset\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\asset\\fonts\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\asset\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\asset\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\asset\\fonts\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\asset\\fonts\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\asset\\fonts\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\asset\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\asset\\fonts\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\asset\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\asset\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\asset\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\asset\\fonts\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\asset\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\asset\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\asset\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\asset\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\asset\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\asset\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\asset\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\asset\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\asset\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\asset\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\asset\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\asset\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\asset\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\asset\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\iconic\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\asset\\fonts\\iconic\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\iconic\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\asset\\fonts\\iconic\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\asset\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\asset\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\asset\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\asset\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.eot",
+      "PackagePath": "staticwebassets\\asset\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.eot"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.svg",
+      "PackagePath": "staticwebassets\\asset\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.svg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.ttf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.woff",
+      "PackagePath": "staticwebassets\\asset\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.woff"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\asset\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\fonts\\linearicons-v1.0.0\\icon-font.min.css",
+      "PackagePath": "staticwebassets\\asset\\fonts\\linearicons-v1.0.0\\icon-font.min.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\about-01.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\about-01.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\about-02.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\about-02.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\avatar-01.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\avatar-01.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\banner-01.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\banner-01.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\banner-02.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\banner-02.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\banner-03.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\banner-03.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\banner-04.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\banner-04.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\banner-05.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\banner-05.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\banner-06.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\banner-06.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\banner-07.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\banner-07.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\banner-08.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\banner-08.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\banner-09.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\banner-09.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\bg-01.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\bg-01.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\bg-02.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\bg-02.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\blog-01.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\blog-01.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\blog-02.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\blog-02.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\blog-03.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\blog-03.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\blog-04.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\blog-04.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\blog-05.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\blog-05.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\blog-06.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\blog-06.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\gallery-01.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\gallery-01.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\gallery-02.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\gallery-02.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\gallery-03.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\gallery-03.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\gallery-04.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\gallery-04.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\gallery-05.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\gallery-05.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\gallery-06.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\gallery-06.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\gallery-07.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\gallery-07.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\gallery-08.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\gallery-08.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\gallery-09.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\gallery-09.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\icons\\favicon.png",
+      "PackagePath": "staticwebassets\\asset\\images\\icons\\favicon.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\icons\\icon-close.png",
+      "PackagePath": "staticwebassets\\asset\\images\\icons\\icon-close.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\icons\\icon-close2.png",
+      "PackagePath": "staticwebassets\\asset\\images\\icons\\icon-close2.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\icons\\icon-email.png",
+      "PackagePath": "staticwebassets\\asset\\images\\icons\\icon-email.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\icons\\icon-heart-01.png",
+      "PackagePath": "staticwebassets\\asset\\images\\icons\\icon-heart-01.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\icons\\icon-heart-02.png",
+      "PackagePath": "staticwebassets\\asset\\images\\icons\\icon-heart-02.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\icons\\icon-next.png",
+      "PackagePath": "staticwebassets\\asset\\images\\icons\\icon-next.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\icons\\icon-pay-01.png",
+      "PackagePath": "staticwebassets\\asset\\images\\icons\\icon-pay-01.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\icons\\icon-pay-02.png",
+      "PackagePath": "staticwebassets\\asset\\images\\icons\\icon-pay-02.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\icons\\icon-pay-03.png",
+      "PackagePath": "staticwebassets\\asset\\images\\icons\\icon-pay-03.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\icons\\icon-pay-04.png",
+      "PackagePath": "staticwebassets\\asset\\images\\icons\\icon-pay-04.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\icons\\icon-pay-05.png",
+      "PackagePath": "staticwebassets\\asset\\images\\icons\\icon-pay-05.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\icons\\icon-prev.png",
+      "PackagePath": "staticwebassets\\asset\\images\\icons\\icon-prev.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\icons\\logo-01.png",
+      "PackagePath": "staticwebassets\\asset\\images\\icons\\logo-01.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\icons\\logo-02.png",
+      "PackagePath": "staticwebassets\\asset\\images\\icons\\logo-02.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\icons\\pin.png",
+      "PackagePath": "staticwebassets\\asset\\images\\icons\\pin.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\item-cart-01.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\item-cart-01.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\item-cart-02.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\item-cart-02.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\item-cart-03.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\item-cart-03.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\item-cart-04.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\item-cart-04.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\item-cart-05.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\item-cart-05.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\product-01.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\product-01.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\product-02.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\product-02.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\product-03.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\product-03.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\product-04.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\product-04.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\product-05.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\product-05.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\product-06.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\product-06.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\product-07.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\product-07.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\product-08.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\product-08.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\product-09.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\product-09.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\product-10.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\product-10.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\product-11.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\product-11.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\product-12.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\product-12.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\product-13.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\product-13.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\product-14.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\product-14.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\product-15.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\product-15.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\product-16.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\product-16.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\product-detail-01.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\product-detail-01.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\product-detail-02.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\product-detail-02.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\product-detail-03.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\product-detail-03.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\product-min-01.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\product-min-01.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\product-min-02.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\product-min-02.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\product-min-03.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\product-min-03.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\slide-01.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\slide-01.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\slide-02.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\slide-02.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\slide-03.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\slide-03.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\slide-04.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\slide-04.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\slide-05.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\slide-05.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\slide-06.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\slide-06.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\slide-07.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\slide-07.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\thumb-01.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\thumb-01.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\thumb-02.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\thumb-02.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\images\\thumb-03.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\thumb-03.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\js\\main.js",
+      "PackagePath": "staticwebassets\\asset\\js\\main.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\js\\map-custom.js",
+      "PackagePath": "staticwebassets\\asset\\js\\map-custom.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\js\\slick-custom.js",
+      "PackagePath": "staticwebassets\\asset\\js\\slick-custom.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\MagnificPopup\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\asset\\vendor\\MagnificPopup\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\MagnificPopup\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\asset\\vendor\\MagnificPopup\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\MagnificPopup\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\asset\\vendor\\MagnificPopup\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\asset\\vendor\\animate\\animate.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\animsition\\css\\animsition.css",
+      "PackagePath": "staticwebassets\\asset\\vendor\\animsition\\css\\animsition.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\animsition\\css\\animsition.min.css",
+      "PackagePath": "staticwebassets\\asset\\vendor\\animsition\\css\\animsition.min.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\animsition\\js\\animsition.js",
+      "PackagePath": "staticwebassets\\asset\\vendor\\animsition\\js\\animsition.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\animsition\\js\\animsition.min.js",
+      "PackagePath": "staticwebassets\\asset\\vendor\\animsition\\js\\animsition.min.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\asset\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\asset\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\asset\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\asset\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\asset\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\asset\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\asset\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\asset\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\asset\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\asset\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\asset\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\asset\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\asset\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\asset\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\bootstrap\\js\\popper.js",
+      "PackagePath": "staticwebassets\\asset\\vendor\\bootstrap\\js\\popper.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\asset\\vendor\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\bootstrap\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\asset\\vendor\\bootstrap\\js\\tooltip.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\countdowntime\\countdowntime.js",
+      "PackagePath": "staticwebassets\\asset\\vendor\\countdowntime\\countdowntime.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\css-hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\asset\\vendor\\css-hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\asset\\vendor\\css-hamburgers\\hamburgers.min.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\asset\\vendor\\daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\asset\\vendor\\daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\daterangepicker\\moment.js",
+      "PackagePath": "staticwebassets\\asset\\vendor\\daterangepicker\\moment.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\daterangepicker\\moment.min.js",
+      "PackagePath": "staticwebassets\\asset\\vendor\\daterangepicker\\moment.min.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\isotope\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\asset\\vendor\\isotope\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\asset\\vendor\\jquery\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\jqueryui\\external\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\asset\\vendor\\jqueryui\\external\\jquery\\jquery.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\jqueryui\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\asset\\vendor\\jqueryui\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\jqueryui\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\asset\\vendor\\jqueryui\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\jqueryui\\images\\ui-icons_777620_256x240.png",
+      "PackagePath": "staticwebassets\\asset\\vendor\\jqueryui\\images\\ui-icons_777620_256x240.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\jqueryui\\images\\ui-icons_777777_256x240.png",
+      "PackagePath": "staticwebassets\\asset\\vendor\\jqueryui\\images\\ui-icons_777777_256x240.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\jqueryui\\images\\ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets\\asset\\vendor\\jqueryui\\images\\ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\jqueryui\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\asset\\vendor\\jqueryui\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\jqueryui\\index.html",
+      "PackagePath": "staticwebassets\\asset\\vendor\\jqueryui\\index.html"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\jqueryui\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\asset\\vendor\\jqueryui\\jquery-ui.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\jqueryui\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\asset\\vendor\\jqueryui\\jquery-ui.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\jqueryui\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\asset\\vendor\\jqueryui\\jquery-ui.min.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\jqueryui\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\asset\\vendor\\jqueryui\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\jqueryui\\jquery-ui.structure.css",
+      "PackagePath": "staticwebassets\\asset\\vendor\\jqueryui\\jquery-ui.structure.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\jqueryui\\jquery-ui.structure.min.css",
+      "PackagePath": "staticwebassets\\asset\\vendor\\jqueryui\\jquery-ui.structure.min.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\jqueryui\\jquery-ui.theme.css",
+      "PackagePath": "staticwebassets\\asset\\vendor\\jqueryui\\jquery-ui.theme.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\jqueryui\\jquery-ui.theme.min.css",
+      "PackagePath": "staticwebassets\\asset\\vendor\\jqueryui\\jquery-ui.theme.min.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\lightbox2\\css\\lightbox.css",
+      "PackagePath": "staticwebassets\\asset\\vendor\\lightbox2\\css\\lightbox.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\lightbox2\\css\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\asset\\vendor\\lightbox2\\css\\lightbox.min.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\lightbox2\\images\\close.png",
+      "PackagePath": "staticwebassets\\asset\\vendor\\lightbox2\\images\\close.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\lightbox2\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\asset\\vendor\\lightbox2\\images\\loading.gif"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\lightbox2\\images\\next.png",
+      "PackagePath": "staticwebassets\\asset\\vendor\\lightbox2\\images\\next.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\lightbox2\\images\\prev.png",
+      "PackagePath": "staticwebassets\\asset\\vendor\\lightbox2\\images\\prev.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\lightbox2\\js\\lightbox-plus-jquery.js",
+      "PackagePath": "staticwebassets\\asset\\vendor\\lightbox2\\js\\lightbox-plus-jquery.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.js",
+      "PackagePath": "staticwebassets\\asset\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.map",
+      "PackagePath": "staticwebassets\\asset\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.map"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\lightbox2\\js\\lightbox.js",
+      "PackagePath": "staticwebassets\\asset\\vendor\\lightbox2\\js\\lightbox.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\lightbox2\\js\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\asset\\vendor\\lightbox2\\js\\lightbox.min.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\lightbox2\\js\\lightbox.min.map",
+      "PackagePath": "staticwebassets\\asset\\vendor\\lightbox2\\js\\lightbox.min.map"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\parallax100\\parallax100.js",
+      "PackagePath": "staticwebassets\\asset\\vendor\\parallax100\\parallax100.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\asset\\vendor\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\asset\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\asset\\vendor\\select2\\select2.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\asset\\vendor\\select2\\select2.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\asset\\vendor\\select2\\select2.min.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\asset\\vendor\\select2\\select2.min.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\slick\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\asset\\vendor\\slick\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\slick\\config.rb",
+      "PackagePath": "staticwebassets\\asset\\vendor\\slick\\config.rb"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\slick\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\asset\\vendor\\slick\\fonts\\slick.eot"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\slick\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\asset\\vendor\\slick\\fonts\\slick.svg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\slick\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\asset\\vendor\\slick\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\slick\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\asset\\vendor\\slick\\fonts\\slick.woff"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\slick\\slick-theme.css",
+      "PackagePath": "staticwebassets\\asset\\vendor\\slick\\slick-theme.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\slick\\slick-theme.less",
+      "PackagePath": "staticwebassets\\asset\\vendor\\slick\\slick-theme.less"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\slick\\slick-theme.scss",
+      "PackagePath": "staticwebassets\\asset\\vendor\\slick\\slick-theme.scss"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\slick\\slick.css",
+      "PackagePath": "staticwebassets\\asset\\vendor\\slick\\slick.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\slick\\slick.js",
+      "PackagePath": "staticwebassets\\asset\\vendor\\slick\\slick.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\slick\\slick.less",
+      "PackagePath": "staticwebassets\\asset\\vendor\\slick\\slick.less"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\slick\\slick.min.js",
+      "PackagePath": "staticwebassets\\asset\\vendor\\slick\\slick.min.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\slick\\slick.scss",
+      "PackagePath": "staticwebassets\\asset\\vendor\\slick\\slick.scss"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\asset\\vendor\\sweetalert\\sweetalert.min.js",
+      "PackagePath": "staticwebassets\\asset\\vendor\\sweetalert\\sweetalert.min.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\CHANGES.md",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\CHANGES.md"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\LICENSE.md",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\README.md",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\README.md"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\SECURITY.md",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\SECURITY.md"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\adapters\\jquery.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\adapters\\jquery.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\bender-runner.config.json",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\bender-runner.config.json"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\build-config.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\build-config.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\ckeditor.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\ckeditor.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\config.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\config.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\contents.css",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\contents.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\af.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\af.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\ar.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\az.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\az.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\bg.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\bn.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\bn.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\bs.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\bs.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\ca.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\cs.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\cy.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\da.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\da.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\de-ch.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\de-ch.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\de.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\de.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\el.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\el.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\en-au.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\en-ca.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\en-ca.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\en-gb.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\en-gb.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\en.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\en.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\eo.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\es-mx.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\es-mx.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\es.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\es.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\et.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\et.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\eu.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\eu.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\fa.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\fi.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\fo.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\fo.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\fr.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\gl.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\gu.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\gu.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\he.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\he.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\hi.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\hi.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\hr.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\hu.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\id.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\id.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\is.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\is.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\it.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\it.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\ja.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\ka.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\ka.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\km.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\km.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\ko.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\ku.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\lt.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\lv.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\mk.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\mk.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\mn.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\mn.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\ms.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\ms.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\nb.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\nl.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\no.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\no.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\oc.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\pl.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\pt-br.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\pt.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\ro.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\ru.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\si.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\si.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\sk.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\sl.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\sq.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\sr-latn.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\sr-latn.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\sr.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\sv.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\th.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\th.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\tr.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\tt.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\tt.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\ug.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\uk.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\vi.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\lang\\zh.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\a11yhelp.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\a11yhelp.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\_translationstatus.txt",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\_translationstatus.txt"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\af.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\af.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ar.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\az.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\az.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\bg.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ca.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cs.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cy.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\da.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\da.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de-ch.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de-ch.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\el.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\el.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-au.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-gb.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-gb.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eo.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es-mx.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es-mx.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\et.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\et.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eu.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eu.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fa.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fi.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fo.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fo.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gl.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gu.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gu.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\he.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\he.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hi.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hi.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hr.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hu.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\id.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\id.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\it.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\it.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ja.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\km.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\km.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ko.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ku.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lt.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lv.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mk.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mk.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mn.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mn.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nb.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nl.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\no.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\no.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\oc.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pl.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt-br.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ro.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ru.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\si.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\si.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sk.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sl.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sq.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr-latn.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr-latn.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sv.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\th.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\th.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tr.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tt.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tt.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ug.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\uk.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\vi.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\about\\dialogs\\about.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\about\\dialogs\\about.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\about\\dialogs\\hidpi\\logo_ckeditor.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\about\\dialogs\\hidpi\\logo_ckeditor.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\about\\dialogs\\logo_ckeditor.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\about\\dialogs\\logo_ckeditor.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\clipboard\\dialogs\\paste.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\clipboard\\dialogs\\paste.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\colordialog\\dialogs\\colordialog.css",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\colordialog\\dialogs\\colordialog.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\colordialog\\dialogs\\colordialog.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\colordialog\\dialogs\\colordialog.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\copyformatting\\cursors\\cursor-disabled.svg",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\copyformatting\\cursors\\cursor-disabled.svg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\copyformatting\\cursors\\cursor.svg",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\copyformatting\\cursors\\cursor.svg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\copyformatting\\styles\\copyformatting.css",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\copyformatting\\styles\\copyformatting.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\dialog\\dialogDefinition.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\dialog\\dialogDefinition.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\dialog\\styles\\dialog.css",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\dialog\\styles\\dialog.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\div\\dialogs\\div.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\div\\dialogs\\div.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\exportpdf\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\exportpdf\\CHANGELOG.md"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\exportpdf\\LICENSE.md",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\exportpdf\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\exportpdf\\README.md",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\exportpdf\\README.md"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\exportpdf\\plugindefinition.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\exportpdf\\plugindefinition.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\exportpdf\\tests\\_helpers\\tools.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\exportpdf\\tests\\_helpers\\tools.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\exportpdf\\tests\\authentication.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\exportpdf\\tests\\authentication.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\exportpdf\\tests\\exportpdf.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\exportpdf\\tests\\exportpdf.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\configfilename.html",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\configfilename.html"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\configfilename.md",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\configfilename.md"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\emptyeditor.html",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\emptyeditor.html"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\emptyeditor.md",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\emptyeditor.md"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\integration.html",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\integration.html"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\integration.md",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\integration.md"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\integrations\\easyimage.html",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\integrations\\easyimage.html"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\integrations\\easyimage.md",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\integrations\\easyimage.md"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\notifications.html",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\notifications.html"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\notifications.md",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\notifications.md"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\notificationsasync.html",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\notificationsasync.html"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\notificationsasync.md",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\notificationsasync.md"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\paperformat.html",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\paperformat.html"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\paperformat.md",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\paperformat.md"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\readonly.html",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\readonly.html"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\readonly.md",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\readonly.md"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\stylesheets.html",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\stylesheets.html"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\stylesheets.md",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\stylesheets.md"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokenfetching.html",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokenfetching.html"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokenfetching.md",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokenfetching.md"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokentwoeditorscorrect.html",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokentwoeditorscorrect.html"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokentwoeditorscorrect.md",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokentwoeditorscorrect.md"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokentwoeditorswrong.html",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokentwoeditorswrong.html"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokentwoeditorswrong.md",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokentwoeditorswrong.md"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokenwithouturl.html",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokenwithouturl.html"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokenwithouturl.md",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokenwithouturl.md"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\wrongendpoint.html",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\wrongendpoint.html"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\wrongendpoint.md",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\wrongendpoint.md"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\exportpdf\\tests\\notification.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\exportpdf\\tests\\notification.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\exportpdf\\tests\\resourcespaths.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\exportpdf\\tests\\resourcespaths.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\exportpdf\\tests\\statistics.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\exportpdf\\tests\\statistics.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\exportpdf\\tests\\stylesheets.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\exportpdf\\tests\\stylesheets.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\find\\dialogs\\find.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\find\\dialogs\\find.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\forms\\dialogs\\button.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\forms\\dialogs\\button.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\forms\\dialogs\\checkbox.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\forms\\dialogs\\checkbox.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\forms\\dialogs\\form.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\forms\\dialogs\\form.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\forms\\dialogs\\hiddenfield.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\forms\\dialogs\\hiddenfield.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\forms\\dialogs\\radio.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\forms\\dialogs\\radio.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\forms\\dialogs\\select.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\forms\\dialogs\\select.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\forms\\dialogs\\textarea.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\forms\\dialogs\\textarea.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\forms\\dialogs\\textfield.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\forms\\dialogs\\textfield.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\forms\\images\\hiddenfield.gif",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\forms\\images\\hiddenfield.gif"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\icons.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\icons.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\icons_hidpi.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\icons_hidpi.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\iframe\\dialogs\\iframe.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\iframe\\dialogs\\iframe.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\iframe\\images\\placeholder.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\iframe\\images\\placeholder.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\image\\dialogs\\image.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\image\\dialogs\\image.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\image\\images\\noimage.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\image\\images\\noimage.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\link\\dialogs\\anchor.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\link\\dialogs\\anchor.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\link\\dialogs\\link.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\link\\dialogs\\link.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\link\\images\\anchor.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\link\\images\\anchor.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\link\\images\\hidpi\\anchor.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\link\\images\\hidpi\\anchor.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\liststyle\\dialogs\\liststyle.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\liststyle\\dialogs\\liststyle.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon-rtl.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon-rtl.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\magicline\\images\\icon-rtl.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\magicline\\images\\icon-rtl.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\magicline\\images\\icon.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\magicline\\images\\icon.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\pagebreak\\images\\pagebreak.gif",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\pagebreak\\images\\pagebreak.gif"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\pastefromgdocs\\filter\\default.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\pastefromgdocs\\filter\\default.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\pastefromlibreoffice\\filter\\default.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\pastefromlibreoffice\\filter\\default.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\pastefromword\\filter\\default.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\pastefromword\\filter\\default.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\pastetools\\filter\\common.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\pastetools\\filter\\common.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\pastetools\\filter\\image.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\pastetools\\filter\\image.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\preview\\images\\pagebreak.gif",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\preview\\images\\pagebreak.gif"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\preview\\preview.html",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\preview\\preview.html"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\preview\\styles\\screen.css",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\preview\\styles\\screen.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\scayt\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\scayt\\CHANGELOG.md"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\scayt\\LICENSE.md",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\scayt\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\scayt\\README.md",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\scayt\\README.md"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\scayt\\dialogs\\dialog.css",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\scayt\\dialogs\\dialog.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\scayt\\dialogs\\options.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\scayt\\dialogs\\options.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\scayt\\dialogs\\toolbar.css",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\scayt\\dialogs\\toolbar.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\scayt\\skins\\moono-lisa\\scayt.css",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\scayt\\skins\\moono-lisa\\scayt.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\showblocks\\images\\block_address.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\showblocks\\images\\block_address.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\showblocks\\images\\block_blockquote.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\showblocks\\images\\block_blockquote.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\showblocks\\images\\block_div.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\showblocks\\images\\block_div.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\showblocks\\images\\block_h1.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\showblocks\\images\\block_h1.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\showblocks\\images\\block_h2.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\showblocks\\images\\block_h2.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\showblocks\\images\\block_h3.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\showblocks\\images\\block_h3.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\showblocks\\images\\block_h4.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\showblocks\\images\\block_h4.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\showblocks\\images\\block_h5.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\showblocks\\images\\block_h5.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\showblocks\\images\\block_h6.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\showblocks\\images\\block_h6.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\showblocks\\images\\block_p.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\showblocks\\images\\block_p.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\showblocks\\images\\block_pre.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\showblocks\\images\\block_pre.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\smiley\\dialogs\\smiley.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\smiley\\dialogs\\smiley.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\smiley\\images\\angel_smile.gif",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\smiley\\images\\angel_smile.gif"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\smiley\\images\\angel_smile.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\smiley\\images\\angel_smile.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\smiley\\images\\angry_smile.gif",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\smiley\\images\\angry_smile.gif"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\smiley\\images\\angry_smile.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\smiley\\images\\angry_smile.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\smiley\\images\\broken_heart.gif",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\smiley\\images\\broken_heart.gif"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\smiley\\images\\broken_heart.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\smiley\\images\\broken_heart.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\smiley\\images\\confused_smile.gif",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\smiley\\images\\confused_smile.gif"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\smiley\\images\\confused_smile.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\smiley\\images\\confused_smile.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\smiley\\images\\cry_smile.gif",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\smiley\\images\\cry_smile.gif"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\smiley\\images\\cry_smile.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\smiley\\images\\cry_smile.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\smiley\\images\\devil_smile.gif",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\smiley\\images\\devil_smile.gif"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\smiley\\images\\devil_smile.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\smiley\\images\\devil_smile.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\smiley\\images\\embaressed_smile.gif",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\smiley\\images\\embaressed_smile.gif"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\smiley\\images\\embarrassed_smile.gif",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\smiley\\images\\embarrassed_smile.gif"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\smiley\\images\\embarrassed_smile.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\smiley\\images\\embarrassed_smile.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\smiley\\images\\envelope.gif",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\smiley\\images\\envelope.gif"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\smiley\\images\\envelope.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\smiley\\images\\envelope.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\smiley\\images\\heart.gif",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\smiley\\images\\heart.gif"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\smiley\\images\\heart.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\smiley\\images\\heart.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\smiley\\images\\kiss.gif",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\smiley\\images\\kiss.gif"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\smiley\\images\\kiss.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\smiley\\images\\kiss.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\smiley\\images\\lightbulb.gif",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\smiley\\images\\lightbulb.gif"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\smiley\\images\\lightbulb.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\smiley\\images\\lightbulb.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\smiley\\images\\omg_smile.gif",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\smiley\\images\\omg_smile.gif"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\smiley\\images\\omg_smile.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\smiley\\images\\omg_smile.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\smiley\\images\\regular_smile.gif",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\smiley\\images\\regular_smile.gif"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\smiley\\images\\regular_smile.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\smiley\\images\\regular_smile.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\smiley\\images\\sad_smile.gif",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\smiley\\images\\sad_smile.gif"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\smiley\\images\\sad_smile.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\smiley\\images\\sad_smile.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\smiley\\images\\shades_smile.gif",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\smiley\\images\\shades_smile.gif"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\smiley\\images\\shades_smile.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\smiley\\images\\shades_smile.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\smiley\\images\\teeth_smile.gif",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\smiley\\images\\teeth_smile.gif"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\smiley\\images\\teeth_smile.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\smiley\\images\\teeth_smile.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\smiley\\images\\thumbs_down.gif",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\smiley\\images\\thumbs_down.gif"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\smiley\\images\\thumbs_down.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\smiley\\images\\thumbs_down.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\smiley\\images\\thumbs_up.gif",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\smiley\\images\\thumbs_up.gif"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\smiley\\images\\thumbs_up.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\smiley\\images\\thumbs_up.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\smiley\\images\\tongue_smile.gif",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\smiley\\images\\tongue_smile.gif"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\smiley\\images\\tongue_smile.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\smiley\\images\\tongue_smile.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\smiley\\images\\tounge_smile.gif",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\smiley\\images\\tounge_smile.gif"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\smiley\\images\\whatchutalkingabout_smile.gif",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\smiley\\images\\whatchutalkingabout_smile.gif"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\smiley\\images\\whatchutalkingabout_smile.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\smiley\\images\\whatchutalkingabout_smile.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\smiley\\images\\wink_smile.gif",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\smiley\\images\\wink_smile.gif"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\smiley\\images\\wink_smile.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\smiley\\images\\wink_smile.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\_translationstatus.txt",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\_translationstatus.txt"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\af.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\af.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ar.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\az.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\az.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\bg.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ca.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cs.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cy.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\da.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\da.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de-ch.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de-ch.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\el.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\el.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-au.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-ca.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-ca.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-gb.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-gb.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eo.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es-mx.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es-mx.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\et.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\et.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eu.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eu.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fa.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fi.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\gl.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\he.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\he.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hr.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hu.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\id.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\id.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\it.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\it.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ja.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\km.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\km.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ko.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ku.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lt.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lv.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nb.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nl.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\no.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\no.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\oc.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pl.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt-br.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ro.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ru.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\si.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\si.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sk.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sl.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sq.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr-latn.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr-latn.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sv.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\th.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\th.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tr.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tt.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tt.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ug.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\uk.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\vi.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\specialchar.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\specialchar\\dialogs\\specialchar.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\table\\dialogs\\table.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\table\\dialogs\\table.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\tableselection\\styles\\tableselection.css",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\tableselection\\styles\\tableselection.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\tabletools\\dialogs\\tableCell.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\tabletools\\dialogs\\tableCell.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\templates\\dialogs\\templates.css",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\templates\\dialogs\\templates.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\templates\\dialogs\\templates.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\templates\\dialogs\\templates.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\templates\\templatedefinition.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\templates\\templatedefinition.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\templates\\templates\\default.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\templates\\templates\\default.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\templates\\templates\\images\\template1.gif",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\templates\\templates\\images\\template1.gif"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\templates\\templates\\images\\template2.gif",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\templates\\templates\\images\\template2.gif"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\templates\\templates\\images\\template3.gif",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\templates\\templates\\images\\template3.gif"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\plugins\\widget\\images\\handle.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\plugins\\widget\\images\\handle.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\css\\samples.css",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\css\\samples.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\img\\github-top.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\img\\github-top.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\img\\header-bg.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\img\\header-bg.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\img\\header-separator.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\img\\header-separator.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\img\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\img\\logo.svg",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\img\\logo.svg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\img\\navigation-tip.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\img\\navigation-tip.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\index.html",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\index.html"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\js\\sample.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\js\\sample.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\js\\sf.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\js\\sf.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\old\\ajax.html",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\old\\ajax.html"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\old\\api.html",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\old\\api.html"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\old\\appendto.html",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\old\\appendto.html"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\old\\assets\\inlineall\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\old\\assets\\inlineall\\logo.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\old\\assets\\outputxhtml\\outputxhtml.css",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\old\\assets\\outputxhtml\\outputxhtml.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\old\\assets\\posteddata.php",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\old\\assets\\posteddata.php"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\old\\assets\\sample.jpg",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\old\\assets\\sample.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\old\\assets\\uilanguages\\languages.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\old\\assets\\uilanguages\\languages.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\old\\datafiltering.html",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\old\\datafiltering.html"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\old\\dialog\\assets\\my_dialog.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\old\\dialog\\assets\\my_dialog.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\old\\dialog\\dialog.html",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\old\\dialog\\dialog.html"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\old\\divreplace.html",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\old\\divreplace.html"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\old\\enterkey\\enterkey.html",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\old\\enterkey\\enterkey.html"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\old\\htmlwriter\\outputhtml.html",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\old\\htmlwriter\\outputhtml.html"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\old\\index.html",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\old\\index.html"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\old\\inlineall.html",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\old\\inlineall.html"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\old\\inlinebycode.html",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\old\\inlinebycode.html"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\old\\inlinetextarea.html",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\old\\inlinetextarea.html"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\old\\jquery.html",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\old\\jquery.html"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\old\\magicline\\magicline.html",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\old\\magicline\\magicline.html"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\old\\readonly.html",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\old\\readonly.html"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\old\\replacebyclass.html",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\old\\replacebyclass.html"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\old\\replacebycode.html",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\old\\replacebycode.html"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\old\\sample.css",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\old\\sample.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\old\\sample.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\old\\sample.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\old\\sample_posteddata.php",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\old\\sample_posteddata.php"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\old\\tabindex.html",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\old\\tabindex.html"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\old\\toolbar\\toolbar.html",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\old\\toolbar\\toolbar.html"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\old\\uicolor.html",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\old\\uicolor.html"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\old\\uilanguages.html",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\old\\uilanguages.html"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\old\\wysiwygarea\\fullpage.html",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\old\\wysiwygarea\\fullpage.html"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\old\\xhtmlstyle.html",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\old\\xhtmlstyle.html"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\toolbarconfigurator\\css\\fontello.css",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\toolbarconfigurator\\css\\fontello.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\toolbarconfigurator\\font\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\toolbarconfigurator\\font\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\toolbarconfigurator\\font\\config.json",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\toolbarconfigurator\\font\\config.json"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.eot",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.eot"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.svg",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.svg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.ttf",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.ttf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.woff",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.woff"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\toolbarconfigurator\\index.html",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\toolbarconfigurator\\index.html"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\toolbarconfigurator\\js\\abstracttoolbarmodifier.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\toolbarconfigurator\\js\\abstracttoolbarmodifier.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\toolbarconfigurator\\js\\fulltoolbareditor.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\toolbarconfigurator\\js\\fulltoolbareditor.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbarmodifier.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbarmodifier.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbartextmodifier.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbartextmodifier.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\LICENSE",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.css",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\javascript.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\javascript.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\neo.css",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\neo.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.css",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\skins\\moono-lisa\\dialog.css",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\skins\\moono-lisa\\dialog.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\skins\\moono-lisa\\dialog_ie.css",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\skins\\moono-lisa\\dialog_ie.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\skins\\moono-lisa\\dialog_ie8.css",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\skins\\moono-lisa\\dialog_ie8.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\skins\\moono-lisa\\dialog_iequirks.css",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\skins\\moono-lisa\\dialog_iequirks.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\skins\\moono-lisa\\editor.css",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\skins\\moono-lisa\\editor.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\skins\\moono-lisa\\editor_gecko.css",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\skins\\moono-lisa\\editor_gecko.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\skins\\moono-lisa\\editor_ie.css",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\skins\\moono-lisa\\editor_ie.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\skins\\moono-lisa\\editor_ie8.css",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\skins\\moono-lisa\\editor_ie8.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\skins\\moono-lisa\\editor_iequirks.css",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\skins\\moono-lisa\\editor_iequirks.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\skins\\moono-lisa\\icons.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\skins\\moono-lisa\\icons.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\skins\\moono-lisa\\icons_hidpi.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\skins\\moono-lisa\\icons_hidpi.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\skins\\moono-lisa\\images\\arrow.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\skins\\moono-lisa\\images\\arrow.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\skins\\moono-lisa\\images\\close.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\skins\\moono-lisa\\images\\close.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\close.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\close.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock-open.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock-open.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\refresh.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\refresh.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\skins\\moono-lisa\\images\\lock-open.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\skins\\moono-lisa\\images\\lock-open.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\skins\\moono-lisa\\images\\lock.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\skins\\moono-lisa\\images\\lock.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\skins\\moono-lisa\\images\\refresh.png",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\skins\\moono-lisa\\images\\refresh.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\skins\\moono-lisa\\images\\spinner.gif",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\skins\\moono-lisa\\images\\spinner.gif"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\skins\\moono-lisa\\readme.md",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\skins\\moono-lisa\\readme.md"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\styles.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\styles.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\ckeditor\\vendor\\promise.js",
+      "PackagePath": "staticwebassets\\assets\\ckeditor\\vendor\\promise.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.min.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\css\\demo.css",
+      "PackagePath": "staticwebassets\\assets\\css\\demo.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\css\\light-bootstrap-dashboard.css",
+      "PackagePath": "staticwebassets\\assets\\css\\light-bootstrap-dashboard.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\css\\pe-icon-7-stroke.css",
+      "PackagePath": "staticwebassets\\assets\\css\\pe-icon-7-stroke.css"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\fonts\\Pe-icon-7-stroke.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Pe-icon-7-stroke.eot"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\fonts\\Pe-icon-7-stroke.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Pe-icon-7-stroke.svg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\fonts\\Pe-icon-7-stroke.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Pe-icon-7-stroke.ttf"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\fonts\\Pe-icon-7-stroke.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Pe-icon-7-stroke.woff"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\img\\default-avatar.png",
+      "PackagePath": "staticwebassets\\assets\\img\\default-avatar.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\img\\faces\\face-0.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\faces\\face-0.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\img\\faces\\face-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\faces\\face-1.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\img\\faces\\face-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\faces\\face-2.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\img\\faces\\face-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\faces\\face-3.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\img\\faces\\face-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\faces\\face-4.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\img\\faces\\face-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\faces\\face-5.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\img\\faces\\face-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\faces\\face-6.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\img\\faces\\face-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\faces\\face-7.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\img\\faces\\tim_vector.jpe",
+      "PackagePath": "staticwebassets\\assets\\img\\faces\\tim_vector.jpe"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.ico"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\img\\full-screen-image-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\full-screen-image-3.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\img\\loading-bubbles.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\loading-bubbles.svg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\img\\mask.png",
+      "PackagePath": "staticwebassets\\assets\\img\\mask.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\img\\new_logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\new_logo.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\img\\sidebar-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\sidebar-1.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\img\\sidebar-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\sidebar-2.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\img\\sidebar-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\sidebar-3.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\img\\sidebar-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\sidebar-4.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\img\\sidebar-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\sidebar-5.jpg"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\img\\tim_80x80.png",
+      "PackagePath": "staticwebassets\\assets\\img\\tim_80x80.png"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\img\\tải xuống.jfif",
+      "PackagePath": "staticwebassets\\assets\\img\\tải xuống.jfif"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\js\\bootstrap-notify.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap-notify.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\js\\bootstrap-select.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap-select.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\js\\chartist.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chartist.min.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\js\\demo.js",
+      "PackagePath": "staticwebassets\\assets\\js\\demo.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\js\\jquery.3.2.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.3.2.1.min.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\js\\light-bootstrap-dashboard.js",
+      "PackagePath": "staticwebassets\\assets\\js\\light-bootstrap-dashboard.js"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\sass\\lbd\\_alerts.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\lbd\\_alerts.scss"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\sass\\lbd\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\lbd\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\sass\\lbd\\_cards.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\lbd\\_cards.scss"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\sass\\lbd\\_chartist.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\lbd\\_chartist.scss"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\sass\\lbd\\_checkbox-radio-switch.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\lbd\\_checkbox-radio-switch.scss"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\sass\\lbd\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\lbd\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\sass\\lbd\\_footers.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\lbd\\_footers.scss"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\sass\\lbd\\_inputs.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\lbd\\_inputs.scss"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\sass\\lbd\\_misc.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\lbd\\_misc.scss"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\sass\\lbd\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\lbd\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\sass\\lbd\\_navbars.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\lbd\\_navbars.scss"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\sass\\lbd\\_responsive.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\lbd\\_responsive.scss"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\sass\\lbd\\_sidebar-and-main-panel.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\lbd\\_sidebar-and-main-panel.scss"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\sass\\lbd\\_tables.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\lbd\\_tables.scss"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\sass\\lbd\\_typography.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\lbd\\_typography.scss"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\sass\\lbd\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\lbd\\_variables.scss"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\sass\\lbd\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\lbd\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\sass\\lbd\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\lbd\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\sass\\lbd\\mixins\\_chartist.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\lbd\\mixins\\_chartist.scss"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\sass\\lbd\\mixins\\_icons.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\lbd\\mixins\\_icons.scss"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\sass\\lbd\\mixins\\_inputs.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\lbd\\mixins\\_inputs.scss"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\sass\\lbd\\mixins\\_labels.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\lbd\\mixins\\_labels.scss"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\sass\\lbd\\mixins\\_morphing-buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\lbd\\mixins\\_morphing-buttons.scss"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\sass\\lbd\\mixins\\_navbars.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\lbd\\mixins\\_navbars.scss"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\sass\\lbd\\mixins\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\lbd\\mixins\\_social-buttons.scss"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\sass\\lbd\\mixins\\_tabs.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\lbd\\mixins\\_tabs.scss"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\sass\\lbd\\mixins\\_transparency.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\lbd\\mixins\\_transparency.scss"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\sass\\lbd\\mixins\\_vendor-prefixes.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\lbd\\mixins\\_vendor-prefixes.scss"
+    },
+    {
+      "Id": "D:\\DevPro\\The last Project\\lab1\\wwwroot\\assets\\sass\\light-bootstrap-dashboard.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\light-bootstrap-dashboard.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.lab1.props",
+      "PackagePath": "build\\lab1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.lab1.props",
+      "PackagePath": "buildMultiTargeting\\lab1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.lab1.props",
+      "PackagePath": "buildTransitive\\lab1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.lab1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

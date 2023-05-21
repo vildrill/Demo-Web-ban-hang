@@ -1,0 +1,126 @@
+﻿@{
+    //load file Layout.cshtml vao day
+    Layout = "~/Views/Shared/Layout.cshtml";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="~/assets/css/bootstrap.min.css">
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        input[type=email], input[type=password], input[type=text] {
+            width: 100%;
+            padding: 12px 20px;
+            margin: 8px 0;
+            display: inline-block;
+            border: 1px solid #ccc;
+            box-sizing: border-box;
+        }
+        button {
+            background-color: #04AA6D;
+            color: white;
+            padding: 14px 20px;
+            margin: 8px 0;
+            border: none;
+            cursor: pointer;
+            width: 100%;
+        }
+            button:hover {
+                opacity: 0.8;
+            }
+        .cancelbtn {
+            width: auto;
+            padding: 10px 18px;
+            background-color: #f44336;
+        }
+        .imgcontainer {
+            text-align: center;
+            margin: 24px 0 12px 0;
+        }
+        img.avatar {
+            width: 40%;
+            border-radius: 50%;
+        }
+        .container {
+            padding: 16px;
+        }
+        span.password {
+            float: right;
+            padding-top: 16px;
+        }
+
+        span.name {
+            float: right;
+            padding-top: 16px;
+        }
+
+        span.phone {
+            float: right;
+            padding-top: 16px;
+        }
+
+        span.address {
+            float: right;
+            padding-top: 16px;
+        }
+        form {
+            margin-top: 100px;
+            margin-bottom: 0px;
+            background-color: #f1f1f1;
+        }
+        /* Change styles for span and cancel button on extra small screens */
+    </style>
+</head>
+<body style="background-color:#f1f1f1;">
+
+    <form action="/Account/RegisterPost" method="post" autocomplete="off" name="frm-login">
+        <div>
+            <h2 style="text-align:center;">Create an account</h2>
+        </div>
+        <div class="imgcontainer">
+        </div>
+
+        <div class="container">
+            <fieldset class="wrap-input">
+                <label for="email"><b>Email*</b></label>
+                <input type="email" id="frm-reg-email" name="email" required placeholder="Input your Email address">
+            </fieldset>
+            <fieldset class="wrap-input">
+                <label for="email"><b>Password*</b></label>
+                <input type="password" id="frm-reg-password" name="password" required placeholder="Input your Password">
+            </fieldset>
+            <fieldset class="wrap-input">
+                <label for="name"><b>Name*</b></label>
+                <input type="text" id="frm-reg-lname" name="name" required placeholder="Input your Name*">
+            </fieldset>
+            <fieldset class="wrap-input">
+                <label for="phone"><b>Phone*</b></label>
+                <input type="text" id="frm-reg-lphone" name="phone" required placeholder="Input your Phone*">
+            </fieldset>
+            <fieldset class="wrap-input">
+                <label for="address"><b>Address*</b></label>
+                <input type="text" id="frm-reg-address" name="address" required placeholder="Input your Address">
+            </fieldset>
+
+            <input type="submit" value="Register" class="btn btn-primary">            
+        </div>
+
+        <div class="container" style="background-color:#f1f1f1">
+            <button href="/Home" type="button" class="cancelbtn">Cancel</button>
+            <span class="password">Forgot <a href="#">password?</a></span>
+            @if (!String.IsNullOrEmpty(Context.Request.Query["notify"]) && Context.Request.Query["notify"] == "exists")
+            {
+                <div style="background-color: red; color: black;" class="alert alert-success">Email already exists!</div>
+
+            }
+        </div>
+    </form>
+
+
+</body>
+</html>

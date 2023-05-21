@@ -1,0 +1,382 @@
+﻿@using lab1.Models
+@using project.Models
+@functions {
+	public MyDbContext db = new MyDbContext();
+	public List<ItemCategory> Categories()
+	{
+		List<ItemCategory> list_record = db.Categories.Where(item => item.ParentId == 0).OrderByDescending(tbl => tbl.Id).ToList();
+		return list_record;
+	}
+	public List<ItemCategory> SubCategories(int _CategoryId)
+	{
+		List<ItemCategory> list_record = db.Categories.Where(item => item.ParentId == _CategoryId).OrderByDescending(tbl => tbl.Id).ToList();
+		return list_record;
+	}
+	public int ProductsCount(int CategoryId)
+	{
+		//---
+		var list_products = db.CategoriesProducts.Where(item => item.CategoryId == CategoryId).Select(item => new { item.ProductId });
+		List<int> id_products = new List<int>();
+		foreach (var item in list_products)
+		{
+			id_products.Add(item.ProductId);
+		}
+		//---
+		int count = db.Products.Where(item => id_products.Contains(item.Id)).Count();
+		return count;
+	}
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Shop</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!--===============================================================================================-->
+	<link rel="icon" type="image/png" href="~/asset/images/icons/favicon.png" />
+	<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="~/asset/vendor/bootstrap/css/bootstrap.min.css">
+	<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="~/asset/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+	<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="~/asset/fonts/iconic/css/material-design-iconic-font.min.css">
+	<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="~/asset/fonts/linearicons-v1.0.0/icon-font.min.css">
+	<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="~/asset/vendor/animate/animate.css">
+	<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="~/asset/vendor/css-hamburgers/hamburgers.min.css">
+	<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="~/asset/vendor/animsition/css/animsition.min.css">
+	<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="~/asset/vendor/select2/select2.min.css">
+	<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="~/asset/vendor/perfect-scrollbar/perfect-scrollbar.css">
+	<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="~/asset/css/util.css">
+	<link rel="stylesheet" type="text/css" href="~/asset/css/main.css">
+	<!--===============================================================================================-->
+</head>
+<body class="animsition">
+
+	<!--Start of Tawk.to Script-->
+	<script type="text/javascript">
+		var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
+		(function () {
+			var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
+			s1.async = true;
+			s1.src = 'https://embed.tawk.to/63eedd32c2f1ac1e2033c256/1gpeh03mh';
+			s1.charset = 'UTF-8';
+			s1.setAttribute('crossorigin', '*');
+			s0.parentNode.insertBefore(s1, s0);
+		})();
+	</script>
+	<!--End of Tawk.to Script-->
+
+	<!-- Header -->
+	@Html.Partial("~/Views/Shared/Menu.cshtml")
+
+
+	<!-- Content page -->
+	<section class="bg0 p-t-62 p-b-60">
+		<div class="container">
+			<div class="row">
+				@RenderBody()				
+
+				<div class="col-md-4 col-lg-3 p-b-80">
+					<div class="side-menu">						
+						<div class="p-t-55">
+							<h4 class="mtext-112 cl2 p-b-33">
+								Categories
+							</h4>
+							<ul>
+								@{
+									List<ItemCategory> list_categories = Categories();
+								}
+								@foreach (var item in list_categories)
+								{
+									List<ItemCategory> list_sub_categories = SubCategories(item.Id);
+									<li class="bor18">
+										<a href="/Products/Index/@item.Id" class="dis-block stext-115 cl6 hov-cl1 trans-04 p-tb-8 p-lr-4">
+											@item.Name
+										</a>
+										@*@if (list_sub_categories.Count > 0)
+										{
+											<text>
+												<span class="toggle-control">-</span>
+											</text>
+											<ul>
+												@foreach (var itemSub in list_sub_categories)
+												{
+												<li class="bor18">
+													<a href="/Products/Index/@itemSub.Id" class="dis-block stext-115 cl6 hov-cl1 trans-04 p-tb-8 p-lr-4">
+															@itemSub.Name (@ProductsCount(itemSub.Id))
+													</a>
+
+												</li>
+												}
+											</ul>
+											
+										}*@
+									</li>
+
+								}																
+							</ul>
+						</div>
+
+						<div class="p-t-55">
+						<h4 class="mtext-112 cl2 p-b-33">
+							Filter Price
+						</h4>
+						
+							<input type="number" min="0" id="fromPrice" style="width:90px; border:1px solid #444444;border-radius: 10px;" placeholder="from price">
+							<input type="number" min="0" id="toPrice" style="width:90px; border:1px solid #444444;border-radius: 10px;margin-top: 10px;" placeholder="to price">
+								<!-- <input type="range" id="fromPrice" onchange="alert(document.getElementById('fromPrice').value);">
+							<input type="range" id="toPrice" onchange="alert(document.getElementById('toPrice').value);"> -->
+							<!-- <div id="slider-range"></div>
+							<p>
+								<label for="amount">Price:</label>
+								<input type="text" id="amount" readonly>
+								<button class="filter-submit">Filter</button>
+							</p> -->						
+						<button onclick="location.href='/Search/SearchPrice?fromPrice='+document.getElementById('fromPrice').value+'&toPrice='+document.getElementById('toPrice').value" 
+						class="flex-c-m stext-101 cl0 size-112 bg7 bor11 hov-btn3 p-lr-15 trans-04 m-b-10" style="margin-top: 20px;">Search</button>
+						</div>
+
+						<div class="p-t-55">
+							@functions {
+								public List<ItemTag> ListTags()
+								{
+									List<ItemTag> list_record = (from item in db.Tags orderby item.Id descending select item).ToList();
+									return list_record;
+								}
+
+							}
+							<h4 class="mtext-112 cl2 p-b-27">
+								Tags
+							</h4>
+
+							<div class="flex-w m-r--5">
+								@{
+									//Lay danh sach tag
+									List<ItemTag> list_tags = ListTags();
+									//lay ten controller
+									string controllerName = Context.Request.RouteValues["controller"].ToString();
+									//lay ten action trong ham
+									string actionName = Context.Request.RouteValues["action"].ToString();
+
+									string id = Context.Request.RouteValues["id"] != null ? Context.Request.RouteValues["id"].ToString() : "0";
+
+								}
+								@foreach (var item in list_tags)
+								{
+									<a href="/Search/Tag/@item.Id" class="flex-c-m stext-107 cl6 size-301 bor7 p-lr-15 hov-tag1 trans-04 m-r-5 m-b-5">
+										@item.Name
+								</a>		
+								}								
+							</div>							
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</section>
+
+
+
+	<!-- Footer -->
+	<footer class="bg3 p-t-75 p-b-32">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-6 col-lg-3 p-b-50">
+					<h4 class="stext-301 cl0 p-b-30">
+						Categories
+					</h4>
+
+					<ul>
+						<li class="p-b-10">
+							<a href="#" class="stext-107 cl7 hov-cl1 trans-04">
+								Women
+							</a>
+						</li>
+
+						<li class="p-b-10">
+							<a href="#" class="stext-107 cl7 hov-cl1 trans-04">
+								Men
+							</a>
+						</li>
+
+						<li class="p-b-10">
+							<a href="#" class="stext-107 cl7 hov-cl1 trans-04">
+								Shoes
+							</a>
+						</li>
+
+						<li class="p-b-10">
+							<a href="#" class="stext-107 cl7 hov-cl1 trans-04">
+								Watches
+							</a>
+						</li>
+					</ul>
+				</div>
+
+				<div class="col-sm-6 col-lg-3 p-b-50">
+					<h4 class="stext-301 cl0 p-b-30">
+						Help
+					</h4>
+
+					<ul>
+						<li class="p-b-10">
+							<a href="#" class="stext-107 cl7 hov-cl1 trans-04">
+								Track Order
+							</a>
+						</li>
+
+						<li class="p-b-10">
+							<a href="#" class="stext-107 cl7 hov-cl1 trans-04">
+								Returns
+							</a>
+						</li>
+
+						<li class="p-b-10">
+							<a href="#" class="stext-107 cl7 hov-cl1 trans-04">
+								Shipping
+							</a>
+						</li>
+
+						<li class="p-b-10">
+							<a href="#" class="stext-107 cl7 hov-cl1 trans-04">
+								FAQs
+							</a>
+						</li>
+					</ul>
+				</div>
+
+				<div class="col-sm-6 col-lg-3 p-b-50">
+					<h4 class="stext-301 cl0 p-b-30">
+						GET IN TOUCH
+					</h4>
+
+					<p class="stext-107 cl7 size-201">
+						Any questions? Let us know in store at 8th floor, 379 Hudson St, New York, NY 10018 or call us on (+1) 96 716 6879
+					</p>
+
+					<div class="p-t-27">
+						<a href="#" class="fs-18 cl7 hov-cl1 trans-04 m-r-16">
+							<i class="fa fa-facebook"></i>
+						</a>
+
+						<a href="#" class="fs-18 cl7 hov-cl1 trans-04 m-r-16">
+							<i class="fa fa-instagram"></i>
+						</a>
+
+						<a href="#" class="fs-18 cl7 hov-cl1 trans-04 m-r-16">
+							<i class="fa fa-pinterest-p"></i>
+						</a>
+					</div>
+				</div>
+
+				<div class="col-sm-6 col-lg-3 p-b-50">
+					<h4 class="stext-301 cl0 p-b-30">
+						Newsletter
+					</h4>
+
+					<form>
+						<div class="wrap-input1 w-full p-b-4">
+							<input class="input1 bg-none plh1 stext-107 cl7" type="text" name="email" placeholder="email@example.com">
+							<div class="focus-input1 trans-04"></div>
+						</div>
+
+						<div class="p-t-18">
+							<button class="flex-c-m stext-101 cl0 size-103 bg1 bor1 hov-btn2 p-lr-15 trans-04">
+								Subscribe
+							</button>
+						</div>
+					</form>
+				</div>
+			</div>
+
+			<div class="p-t-40">
+				<div class="flex-c-m flex-w p-b-18">
+					<a href="#" class="m-all-1">
+						<img src="~/asset/images/icons/icon-pay-01.png" alt="ICON-PAY">
+					</a>
+
+					<a href="#" class="m-all-1">
+						<img src="~/asset/images/icons/icon-pay-02.png" alt="ICON-PAY">
+					</a>
+
+					<a href="#" class="m-all-1">
+						<img src="~/asset/images/icons/icon-pay-03.png" alt="ICON-PAY">
+					</a>
+
+					<a href="#" class="m-all-1">
+						<img src="~/asset/images/icons/icon-pay-04.png" alt="ICON-PAY">
+					</a>
+
+					<a href="#" class="m-all-1">
+						<img src="~/asset/images/icons/icon-pay-05.png" alt="ICON-PAY">
+					</a>
+				</div>
+
+				<p class="stext-107 cl6 txt-center">
+					<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+					Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a> &amp; distributed by <a href="https://themewagon.com" target="_blank">ThemeWagon</a>
+					<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+
+				</p>
+			</div>
+		</div>
+	</footer>
+
+
+	<!-- Back to top -->
+	<div class="btn-back-to-top" id="myBtn">
+		<span class="symbol-btn-back-to-top">
+			<i class="zmdi zmdi-chevron-up"></i>
+		</span>
+	</div>
+
+	<!--===============================================================================================-->
+	<script src="~/asset/vendor/jquery/jquery-3.2.1.min.js"></script>
+	<!--===============================================================================================-->
+	<script src="~/asset/vendor/animsition/js/animsition.min.js"></script>
+	<!--===============================================================================================-->
+	<script src="~/asset/vendor/bootstrap/js/popper.js"></script>
+	<script src="~/asset/vendor/bootstrap/js/bootstrap.min.js"></script>
+	<!--===============================================================================================-->
+	<script src="~/asset/vendor/select2/select2.min.js"></script>
+	<script>
+		$(".js-select2").each(function () {
+			$(this).select2({
+				minimumResultsForSearch: 20,
+				dropdownParent: $(this).next('.dropDownSelect2')
+			});
+		})
+	</script>
+	<!--===============================================================================================-->
+	<script src="~/asset/vendor/MagnificPopup/jquery.magnific-popup.min.js"></script>
+	<!--===============================================================================================-->
+	<script src="~/asset/vendor/perfect-scrollbar/perfect-scrollbar.min.js"></script>
+	<script>
+		$('.js-pscroll').each(function () {
+			$(this).css('position', 'relative');
+			$(this).css('overflow', 'hidden');
+			var ps = new PerfectScrollbar(this, {
+				wheelSpeed: 1,
+				scrollingThreshold: 1000,
+				wheelPropagation: false,
+			});
+
+			$(window).on('resize', function () {
+				ps.update();
+			})
+		});
+	</script>
+	<!--===============================================================================================-->
+	<script src="~/asset/js/main.js"></script>
+
+</body>
+</html>

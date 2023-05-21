@@ -1,0 +1,105 @@
+﻿@{
+	//Load file Layout.cshtml
+	Layout = "~/Areas/Admin/Views/Shared/Layout.cshtml";
+
+}
+@using project.Models
+@functions {
+	public MyDbContext db = new MyDbContext();
+}
+
+
+
+					<div class="content">
+						<div class="container-fluid">
+							<div class="row">
+								<div class="col-md-8">
+									<div class="card" style="padding:20px;">
+										<div class="card-header">
+											<h4 class="card-title">Advs Control</h4>
+										</div>
+										<div class="card-body">
+										<form method="post" action="@ViewBag.action" enctype="multipart/form-data">
+
+												<div class="row">
+													<div class="col-md-3 px-1">
+														<div class="form-group">
+															<label>Name</label>
+															<input type="text" value="@if (Model != null) {
+															<text>@Model.Name</text>}" name="Name" class="form-control" required>
+														</div>
+													</div>
+												</div>
+
+												<div class="row">
+													<div class="col-md-12">
+														<div class="form-group">
+															<label>Subtitle</label>
+															<select name="Position" class="form-control" style="width:250px;">
+																<option @if (Model != null && Model.Position == 1) {
+																<text> selected</text>} value="1">Trái (Dưới slide show)</option>
+																<option @if (Model != null && Model.Position == 2) {
+																<text> selected</text>} value="2">Phải (Dưới slide show)</option>
+																<option @if (Model != null && Model.Position == 3) {
+																<text> selected</text>} value="3">Trang sản phẩm - Banner</option>
+																<option @if (Model != null && Model.Position == 4) {
+																<text> selected</text>} value="4">Trang sản phẩm - Dưới TAG</option>
+																<option @if (Model != null && Model.Position == 5) {
+																<text> selected</text>} value="5">Trang sản phẩm - Dưới Popular products</option>
+															</select>
+														</div>
+													</div>
+												</div>
+
+												<div class="row">
+													<div class="col-md-12">
+														<div class="form-group">
+															<label>Photo</label>
+															<input type="file" name="Photo" />
+														</div>
+													</div>
+												</div>
+
+												<div class="row">
+													<div class="col-md-10">
+														<input type="submit" value="Save" class="btn btn-primary">
+													</div>
+												</div>
+
+											</form>
+										</div>
+									</div>
+								</div>
+
+								<div class="col-md-4">
+									<div class="card card-user">
+										<div class="card-image">
+											<img src="https://ununsplash.imgix.net/photo-1431578500526-4d9613015464?fit=crop&fm=jpg&h=300&q=75&w=400" style="height:300px;width:364.6px;box-sizing:border-box;padding:10px;" alt="...">
+										</div>
+										<div class="card-body">
+											<div class="author">
+												<a href="#">
+													<img class="avatar border-gray" src="~/assets/img/faces/face-2.jpg" alt="...">
+													<h5 class="title">Name</h5>
+												</a>
+												<p class="description">Email</p>
+											</div>
+										</div>
+										<hr>
+										<div class="button-container mr-auto ml-auto">
+											<button href="#" class="btn btn-simple btn-link btn-icon">
+												<i class="fa fa-facebook-square"></i>
+											</button>
+											<button href="#" class="btn btn-simple btn-link btn-icon">
+												<i class="fa fa-twitter"></i>
+											</button>
+											<button href="#" class="btn btn-simple btn-link btn-icon">
+												<i class="fa fa-google-plus-square"></i>
+											</button>
+										</div>
+									</div>
+								</div>
+
+							</div>
+						</div>
+					</div>

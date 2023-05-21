@@ -1,0 +1,87 @@
+﻿@{
+    //Load file Layout.cshtml
+    Layout = "~/Areas/Admin/Views/Shared/Layout.cshtml";
+
+}
+@using X.PagedList
+@using X.PagedList.Mvc.Core
+@using System.IO
+@* nhin thay file MyDbContext *@
+@using project.Models
+@functions {
+    public MyDbContext db = new MyDbContext();
+}
+
+                    <div class="col-md-12">
+                        <div class="card card-plain table-plain-bg">
+                            <div class="card-header ">
+                                <h4 class="card-title">Adv Table</h4>
+                                <p class="card-category">You can add a new adv here</p>
+                            </div>
+                            <div style="margin-bottom:5px;">
+                                <a href="/Admin/Adv/Create" class="btn btn-primary">Add new adv</a>
+                            </div>
+                            <div class="card-body table-full-width table-responsive">
+                                <table class="table table-hover">
+                                    <thead>
+                                    <th style="width:100px;">Photo</th>
+                                    <th>Name</th>
+                                    <th style="width:100px;">Position</th>
+                                    <th style="width:100px;"></th>
+                                    </thead>
+                                    <tbody>
+                                        @foreach (var item in Model)
+                                        {
+                                            <tr>
+                                                <td>
+                                                    @if (item.Photo != null && File.Exists(Directory.GetCurrentDirectory() + "\\wwwroot\\Upload\\Adv\\" + item.Photo))
+                                                    {
+                                                        <img src="~/Upload/Adv/@item.Photo" style="width:100px;" />
+                                                    }
+                                                </td>
+                                                <td>@item.Name</td>
+                                                <td>
+                                                    @if (item.Position == 1)
+                                                    {
+                                                        <text>Trái (Dưới slide show)</text>
+                                                    }
+                                                    @if (item.Position == 2)
+                                                    {
+                                                        <text>Phải (Dưới slide show)</text>
+                                                    }
+                                                    @if (item.Position == 3)
+                                                    {
+                                                        <text>Trang sản phẩm - Banner</text>
+                                                    }
+                                                    @if (item.Position == 4)
+                                                    {
+                                                        <text>Trang sản phẩm - Dưới TAG</text>
+                                                    }
+                                                    @if (item.Position == 5)
+                                                    {
+                                                        <text>Trang sản phẩm - Dưới Popular products</text>
+                                                    }
+                                                </td>
+                                                <td style="text-align:center;">
+                                                    <a href="/Admin/Adv/Update/@item.Id">Edit</a>&nbsp;
+                                                    <a href="/Admin/Adv/Delete/@item.Id" onclick="return window.confirm('Are you sure?');">Delete</a>
+                                                </td>
+                                            </tr>
+                                        }
+                                    </tbody>
+                                </table>
+                                <style type="text/css">
+                                    .pagination {
+                                        padding: 0px;
+                                        margin: 0px auto;
+                                    }
+
+                                    .pagination-container {
+                                        text-align: center;
+                                    }
+                                </style>
+                                @Html.PagedListPager((IPagedList)Model,p=>Url.Action("Index", new{page = p}))
+
+                            </div>
+                        </div>
+                    </div>

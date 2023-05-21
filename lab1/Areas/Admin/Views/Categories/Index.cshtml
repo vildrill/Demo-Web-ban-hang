@@ -1,0 +1,73 @@
+﻿@{
+	//Load file Layout.cshtml
+		Layout = "~/Areas/Admin/Views/Shared/Layout.cshtml";
+}
+@using X.PagedList
+@using X.PagedList.Mvc.Core
+@using project.Models
+@using lab1.Models
+
+@functions{
+    public MyDbContext db = new MyDbContext();
+    public List<ItemCategory> CategoriesSub(int _CategoryId)
+    {
+        List<ItemCategory> lst_record = db.Categories.Where(n => n.ParentId == _CategoryId).ToList();
+        return lst_record;
+    }
+}
+
+<div class="col-md-12">
+                            <div class="card card-plain table-plain-bg">
+                                <div class="card-header ">
+                                    <h4 class="card-title">Category Table</h4>
+                                    <p class="card-category">You can add a new category here</p>
+                                </div>
+                                <div style="margin-bottom:5px;">
+                                    <a href="/Admin/Categories/Create" class="btn btn-primary">Add Category</a>
+                                </div>
+                                <div class="card-body table-full-width table-responsive">
+                                    <table class="table table-hover">
+                                        <thead>
+                                            
+                                            <th>Name</th>
+                                            
+                                            <th style="width:100px;"></th>
+                                        </thead>
+                                        <tbody>
+                                           @foreach(var item in Model)
+                                            {
+                                                <tr>
+                                                    
+                                                    <td>@item.Name</td>
+                                                  
+                                                    <td style="text-align:center;">
+                                                        <a href="/Admin/Categories/Update/@item.Id">Edit</a>&nbsp;
+                                                        <a href="/Admin/Categories/Delete/@item.Id" onclick="return window.confirm('Are you sure?');">Delete</a>
+                                                    </td>
+                                                </tr>  
+                                               List<ItemCategory> list_category_sub = CategoriesSub(item.Id);
+                    foreach(ItemCategory itemSub in list_category_sub)
+                    {
+                        <tr>
+                                        <td style="padding-left:30px;">@itemSub.Name</td>
+                                        
+                                        <td style="text-align:center;">
+                                            <a href="/Admin/Categories/Update/@itemSub.Id">Edit</a>&nbsp;
+                                            <a href="/Admin/Categories/Delete/@itemSub.Id" onclick="return window.confirm('Are you sure?');">Delete</a>
+                                        </td>
+                        </tr>
+                        
+                    }
+                                            }                                                                                     
+                                        </tbody>
+                                    </table>
+                                    <style type="text/css">
+                                    .pagination{padding:0px; margin:0px auto;}
+                                    .pagination-container{text-align:center;}
+                                </style>
+                                @Html.PagedListPager((IPagedList)Model,p=>Url.Action("Index", new{page = p}))
+                              
+                                </div>
+                            </div>
+                        </div>
+

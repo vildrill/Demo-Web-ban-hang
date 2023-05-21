@@ -1,0 +1,79 @@
+﻿@{
+    //load file Layout.cshtml vao day
+    Layout = "~/Areas/Admin/Views/Shared/Layout.cshtml";
+}
+@* Để phân trang thì using các đối tượng sau *@
+@using X.PagedList
+@using X.PagedList.Mvc.Core
+@using lab1.Models
+@using project.Models
+@functions {
+    public MyDbContext db = new MyDbContext();   
+
+}
+
+<div class="col-md-12">
+    <div class="card card-plain table-plain-bg">
+        <div class="card-header ">
+            <h4 class="card-title">List Blog</h4>
+            <p class="card-category">You can add a new blog here</p>
+        </div>
+        <div style="margin-bottom:5px;">
+            <a href="/Admin/Blog/Create" class="btn btn-primary">Add Blog</a>
+        </div>
+        <div class="card-body table-full-width table-responsive">
+            <table class="table table-hover">
+                <thead>
+                <th style="width:200px;">Photo</th>                
+                <th style="width:200px;">Title</th>
+                <th style="width:100px;">Topic</th>
+                <th style="width:100px;">Author</th>
+                <th style="width:100px;">Time</th>
+                <th style="width:100px;"></th>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @if (!String.IsNullOrEmpty(item.Photo) && File.Exists(Directory.GetCurrentDirectory() + "\\wwwroot\\Upload\\Blog\\" + item.Photo))
+                                {
+                                    <img src="~/Upload/Blog/@item.Photo" style="width:100px;">
+                                }
+                            </td>
+                            <td>@item.Title</td>
+                            <td>@item.Topic</td>
+                            <td>@item.Author</td>
+                            <td style="text-align:center">@item.Time.ToString("MM/dd/yyyy")</td>
+                            <td style="text-align:center"></td>                          
+                            <td style="text-align:center;">
+                                <a href="/Admin/Blog/Update/@item.Id">Edit</a>&nbsp;
+                                <a href="/Admin/Blog/Delete/@item.Id" onclick="return window.confirm('Are you sure?');">Delete</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            <style type="text/css">
+                .pagination {
+                    padding: 0px;
+                }
+
+                .pagination-container {
+                    text-align: center;
+                }
+            </style>
+            @Html.PagedListPager((IPagedList)Model,p=>Url.Action("Index", new{page = p}))
+
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+

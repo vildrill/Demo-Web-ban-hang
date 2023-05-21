@@ -1,0 +1,117 @@
+﻿@using lab1.MyClass
+@using project.Models
+@using lab1.Models
+@using X.PagedList
+@using X.PagedList.Mvc.Core
+@{
+	//load file Layout2.cshtml vào đây
+	Layout = "~/Views/Shared/Layout2.cshtml";
+}
+@functions{
+	public MyDbContext db = new MyDbContext();
+	public List<ItemBlog> Blog()
+	{
+		List<ItemBlog> list_record = db.Blog.OrderByDescending(item => item.Id).ToList();
+		return list_record;
+	}
+}
+
+
+<!-- Content page -->						
+				<div class="col-md-8 col-lg-9 p-b-80" style="margin-top: 20px;">
+					<div class="p-r-45 p-r-0-lg">
+						@{
+							List<ItemBlog> list_blog = Blog();
+						}
+						@foreach (var item in list_blog)
+						{
+							<!-- item blog -->
+							<div class="p-b-63">
+								<a href="/Blog/Detail/@item.Id" class="hov-img0 how-pos5-parent">
+									<img src="~/Upload/Blog/@item.Photo" alt="@item.Title">
+									<div class="flex-col-c-m size-123 bg9 how-pos5">									
+
+										<span class="stext-109 cl3 txt-center">
+											@item.Time
+										</span>
+									</div>
+								</a>
+
+								<div class="p-t-32">
+									<h4 class="p-b-15">
+										<a href="/Blog/Detail/@item.Id" class="ltext-108 cl2 hov-cl1 trans-04">
+											@item.Title
+										</a>
+									</h4>
+
+									<div class="stext-117 cl6" style="height: 100px;overflow: hidden;">
+										@Html.Raw(item.Content)
+									</div>
+
+									<div class="flex-w flex-sb-m p-t-18">
+										<span class="flex-w flex-m stext-111 cl2 p-r-30 m-tb-10">
+											<span>
+												<span class="cl4">By</span> @item.Author  
+												<span class="cl12 m-l-4 m-r-6">|</span>
+											</span>
+
+											<span>
+												@item.Topic 
+												<span class="cl12 m-l-4 m-r-6">|</span>
+											</span>
+
+											<span>
+												8 Comments
+											</span>
+										</span>
+
+										<a href="/Blog/Detail/@item.Id" class="stext-101 cl2 hov-cl1 trans-04 m-tb-10">
+											Continue Reading
+
+											<i class="fa fa-long-arrow-right m-l-9"></i>
+										</a>
+									</div>
+								</div>
+							</div>
+						}
+
+						<!-- item blog -->												
+
+						<!-- Pagination -->
+						<div class="flex-l-m flex-w w-full p-t-10 m-lr--7">
+			
+						<style type="text/css">
+							.pagination {
+								margin: 0px;
+					
+							}
+
+							.pagination li {
+								display: inline-block;
+								height: 40px;
+								width: 40px;
+								border: 1px solid #f2f2f2;
+								border-radius: 50%;
+								font-size: 14px;
+								color: chocolate;
+								font-weight: 600;
+								line-height: 40px;
+								text-align: center;
+								transition: all, 0.3s;
+								margin-right: 6px;
+								font-weight: 600;
+							}
+
+							.pagination li:hover {
+								background: grey;
+								border-color: #f2f2f2;
+								color: #f2f2f2;
+							}
+						</style>
+						@Html.PagedListPager((IPagedList)Model,p=>Url.Action("Index", new {page = p}))
+						</div>
+					</div>
+				</div>
+				
+	
+	
